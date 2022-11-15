@@ -7,8 +7,9 @@
 2. L'explication du sujet claire et simple
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
-1. Avoir une meilleure transition entre les étapes et la manipulation dans photoshop.
-2. 
+
+1. Avoir une meilleure transition entre les étapes et la manipulation dans photoshop, car on pouvait voir les étapes et l'hiérarchie des diapositives de la présentation.
+2. Voir clairement les manipulations (right clic), car on ne voit pas les options de celui-ci. Alors, au lieu de faire une partage de fenêtre, je devrais faire une partage d'écran comme dans la manipulation dans photoshop.
+
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi? 
