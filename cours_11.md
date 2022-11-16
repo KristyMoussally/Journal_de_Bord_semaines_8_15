@@ -13,4 +13,4 @@
 
 ### Présentation préférée
 
-J'ai préféré la présentation de Jonathan, parcequ'il a expliqué son sujet très simple et claire. Il rend les étapes plus faciles à suivre et à comprendre. De plus, ses transitions des diapositives sont fluides et apaisants à voir.
+J'ai préféré la présentation de Jonathan, parcequ'il a expliqué son sujet très simple et claire. Il rend les étapes plus faciles à suivre et à comprendre. De plus, ses transitions entre les diapositives sont fluides et apaisants à voir.
