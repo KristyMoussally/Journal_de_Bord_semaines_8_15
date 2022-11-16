@@ -12,4 +12,5 @@
 2. Voir clairement les manipulations (right clic), car on ne voit pas les options de celui-ci. Alors, au lieu de faire une partage de fenêtre, je devrais faire une partage d'écran comme dans la manipulation dans photoshop.
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+
+J'ai préféré la présentation de Jonathan, parcequ'il a expliqué son sujet très simple et claire. Il rend les étapes plus faciles à suivre et à comprendre.
